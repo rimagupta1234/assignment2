@@ -1,7 +1,7 @@
 # assignment2
 
 
-1) Make Cache matrix
+# 1) Make Cache matrix
 
 
 makeCacheMatrix <- function(x = matrix()) {
@@ -18,7 +18,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 
-2) cache solve
+# 2) cache solve
 
 
 ## This function computes the inverse of the special "matrix" returned by makeCacheMatrix above.
@@ -30,10 +30,9 @@ cacheSolve <- function(x, ...) {
     
     
     
-    or
-    
-    
-    
+ #   or
+   
+   
     #base function
 makeCacheMatrix <- function(x = matrix()) {
 inverse <- NULL
